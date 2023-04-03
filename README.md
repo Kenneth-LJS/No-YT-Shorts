@@ -5,9 +5,10 @@ Tired of endlessly scrolling YouTube shorts? Frustrated from the inability to na
 
 ## Installation
 
-Step 1: Install GreaseMonkey / TamperMonkey on your browser of choice.
-Step 2: Click [here](https://github.com/Kenneth-LJS/No-YT-Shorts/raw/main/no-yt-shorts.user.js) to install the No YT Shorts script.
-Step 3: Confirm the installation.
+Steps:
+1. Install GreaseMonkey / TamperMonkey on your browser of choice.
+2. Click [here](https://github.com/Kenneth-LJS/No-YT-Shorts/raw/main/no-yt-shorts.user.js) to install the No YT Shorts script.
+3. Confirm the installation.
 
 And you’re done!
 
