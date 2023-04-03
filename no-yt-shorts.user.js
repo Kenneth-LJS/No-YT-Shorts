@@ -2,7 +2,7 @@
 // @name         No YT Shorts
 // @version      1.0
 // @description  Redirects from YouTube shorts to the full-length video
-// @author       You
+// @author       Kenneth-LJS
 // @match        *://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
